@@ -10,7 +10,7 @@
 *斜体*
 ***粗斜体***
 ~划线~
-'关键字'
+`关键字`
 失败是成功之母
 > 引用
 >> 二级引用
@@ -24,21 +24,21 @@
       * 老师
       * 学生
 1. 学校
-    2. 学院
-        3. 老师
+    1. 学院
+    2. 老师
 ## 代码插入
-'''cpp
+```cpp
 	#include<iostream>
 	int main()
 	{
 	printf("dsdasd");
 	}
-'''
-'''bash
+```
+```bash
 	git push
 	git add
 	git commit -m
-'''
+```
 ## 超链接
 [bilibili](https://www.bilibili.com "点击打开")
 ## 表格
