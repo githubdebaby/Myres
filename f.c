@@ -4,6 +4,6 @@
 int main(void)
 {
 	
-	printf("给爷死");}
+	printf("死");}
 }
 
