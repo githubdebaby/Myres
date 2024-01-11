@@ -2,7 +2,7 @@
 ## 二级标题
 ### 三级标题
 \#为标题修饰符
-第一行<bs>
+第一行 <bs>
 第二行
 
 第三行
@@ -20,12 +20,12 @@
 二段
 ##列表
 * 学校
- * 学院
-  * 老师
-  * 学生
+   * 学院
+      * 老师
+      * 学生
 1. 学校
-2. 学院
-3. 老师
+    2. 学院
+        3. 老师
 ## 代码插入
 '''cpp
 	#include<iostream>
@@ -33,12 +33,12 @@
 	{
 	printf("dsdasd");
 	}
-...
-...bash
+'''
+'''bash
 	git push
 	git add
 	git commit -m
-...
+'''
 ## 超链接
 [bilibili](https://www.bilibili.com "点击打开")
 ## 表格
